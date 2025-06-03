@@ -114,11 +114,11 @@ function App() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
               <div className="flex items-center space-x-2">
                 <Calendar className="text-[#75df9d] w-6 h-6" />
-                <span>Data: 21/03</span>
+                <span>Data: 26/06</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Clock className="text-[#75df9d] w-6 h-6" />
-                <span>Horário: 12h</span>
+                <span>Horário: 19h30</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Video className="text-[#75df9d] w-6 h-6" />
