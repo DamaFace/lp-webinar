@@ -41,7 +41,7 @@ const Obrigado = () => {
 
         {/* Button */}
         <a 
-          href="https://chat.whatsapp.com/DnNKx89th4hAVHXQ6GDPNG" 
+          href="https://chat.whatsapp.com/JBZaBjNyl1MGSKfx7AayB5" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="inline-flex items-center gap-2 bg-[#75df9d] text-black font-bold px-8 py-4 rounded-full text-lg hover:bg-[#8df5b5] transform hover:scale-105 transition-all duration-300 mt-8"
