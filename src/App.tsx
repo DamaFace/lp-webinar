@@ -193,9 +193,9 @@ function App() {
       <div className="w-full flex justify-center bg-black py-6">
         <div className="w-full bg-[#75df9d] text-black font-bold py-2 overflow-hidden whitespace-nowrap rounded-lg shadow-lg">
           <div className="animate-marquee flex space-x-8 min-w-full">
-            <span className="mx-4">GARANTA SUA VAGA • DIA 31/03 ÀS 19H</span>
-            <span className="mx-4">GARANTA SUA VAGA • DIA 31/03 ÀS 19H</span>
-            <span className="mx-4">GARANTA SUA VAGA • DIA 31/03 ÀS 19H</span>
+            <span className="mx-4">GARANTA SUA VAGA • DIA 27/07 ÀS 19H30</span>
+            <span className="mx-4">GARANTA SUA VAGA • DIA 27/07 ÀS 19H30</span>
+            <span className="mx-4">GARANTA SUA VAGA • DIA 27/07 ÀS 19H30</span>
           </div>
         </div>
       </div>
@@ -205,7 +205,7 @@ function App() {
           {/* Imagem do palestrante */}
           <div className="w-full md:w-1/3 flex justify-center">
             <img
-              src="https://imersaotech.com.br/images/franquia/image-evento-damaface.png"
+              src="https://www.damaface.com.br/img-evento.jpeg"
               alt="Palestrante"
               className="rounded-xl shadow-lg border border-zinc-800"
             />
