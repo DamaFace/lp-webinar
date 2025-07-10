@@ -103,7 +103,7 @@ function App() {
         <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6">
-              Dobre o Faturamento da Sua Clínica em 90 Dias
+              O Segredo das Clínicas que Mais Crescem: Método, Gestão e IA na Prática
             </h1>
             <p className="text-xl md:text-2xl mb-4 text-[#75df9d] font-semibold">
               LIVE EXCLUSIVA COM WELLISON LUCAS
@@ -114,7 +114,7 @@ function App() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
               <div className="flex items-center space-x-2">
                 <Calendar className="text-[#75df9d] w-6 h-6" />
-                <span>Data: 26/06</span>
+                <span>Data: 27/07</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Clock className="text-[#75df9d] w-6 h-6" />
