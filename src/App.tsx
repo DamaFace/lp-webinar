@@ -114,7 +114,7 @@ function App() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
               <div className="flex items-center space-x-2">
                 <Calendar className="text-[#75df9d] w-6 h-6" />
-                <span>Data: 27/07</span>
+                <span>Data: 28/08</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Clock className="text-[#75df9d] w-6 h-6" />
@@ -193,9 +193,9 @@ function App() {
       <div className="w-full flex justify-center bg-black py-6">
         <div className="w-full bg-[#75df9d] text-black font-bold py-2 overflow-hidden whitespace-nowrap rounded-lg shadow-lg">
           <div className="animate-marquee flex space-x-8 min-w-full">
-            <span className="mx-4">GARANTA SUA VAGA • DIA 27/07 ÀS 19H30</span>
-            <span className="mx-4">GARANTA SUA VAGA • DIA 27/07 ÀS 19H30</span>
-            <span className="mx-4">GARANTA SUA VAGA • DIA 27/07 ÀS 19H30</span>
+            <span className="mx-4">GARANTA SUA VAGA • DIA 28/08 ÀS 19H30</span>
+            <span className="mx-4">GARANTA SUA VAGA • DIA 28/08 ÀS 19H30</span>
+            <span className="mx-4">GARANTA SUA VAGA • DIA 28/08 ÀS 19H30</span>
           </div>
         </div>
       </div>
