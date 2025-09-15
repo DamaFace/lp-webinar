@@ -3,6 +3,8 @@ import { useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ChevronRight, Target, Lightbulb, Rocket, CheckCircle, Star, ArrowRight, Facebook, Twitter, Instagram, Linkedin as LinkedIn, Check, Calendar, Clock, Video, Users } from 'lucide-react';
 
+import imgEvento from './assets/img-evento.jpeg'
+
 type FormData = {
   name: string;
   email: string;
@@ -205,7 +207,7 @@ function App() {
           {/* Imagem do palestrante */}
           <div className="w-full md:w-1/3 flex justify-center">
             <img
-              src="https://www.damaface.com.br/img-evento.jpeg"
+              src={imgEvento}
               alt="Palestrante"
               className="rounded-xl shadow-lg border border-zinc-800"
             />
